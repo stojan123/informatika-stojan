@@ -1,0 +1,30 @@
+
+
+a:link {
+    color: rgb(67, 19, 209);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(245, 12, 51);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(0, 255, 42);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  .nav-link{
+    color:rgb(225, 230, 234);
+    font-size: 15px;
+}
